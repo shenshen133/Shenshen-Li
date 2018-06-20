@@ -1,4 +1,4 @@
-## HIGHLIGHTS OF QUALIFICATIONS
+## Highlights of Qualifications
 blahblahblah
 
 ## Education
