@@ -1,4 +1,5 @@
 # Shenshen's Resume
+![hello](hello.gif)
 
 ## Highlights of Qualifications
 blahblahblah :smile:
