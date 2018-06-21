@@ -2,11 +2,11 @@
 ![hello](hello.gif)
 
 ## Highlights of Qualifications
-blahblahblah :smile:
+blahblahblah : smile :
 - eat
 - sleep
 
-## Education :sparkles: 
+## Education : sparkles : 
 **Bachelor of Commerce, Honours; Concentration in International Business, Sprott School of Business, Carleton University, Ottawa, Ontario**
 > blahblahblah
 
