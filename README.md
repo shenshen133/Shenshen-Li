@@ -1,15 +1,15 @@
+# Shenshen's Resume
+
 ## Highlights of Qualifications
 blahblahblah
 
 ## Education
-Bachelor of Commerce, Honours; Concentration in International Business, Sprott School of Business, Carleton University, Ottawa, Ontario
+**Bachelor of Commerce, Honours; Concentration in International Business, Sprott School of Business, Carleton University, Ottawa, Ontario**
 blahblahblah
 
-
-
 ## Work Experiences
-Programmer Analyst
-CFIA
+**Programmer Analyst**
+*CFIA*
 blahblahblah
 
 ## Other related Experiences
