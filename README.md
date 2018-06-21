@@ -5,12 +5,12 @@ blahblahblah
 
 ## Education
 **Bachelor of Commerce, Honours; Concentration in International Business, Sprott School of Business, Carleton University, Ottawa, Ontario**
-blahblahblah
+> blahblahblah
 
 ## Work Experiences
 **Programmer Analyst**
-*CFIA*
-blahblahblah
+> *CFIA*
+> blahblahblah
 
 ## Other related Experiences
 Volunteer experiences
