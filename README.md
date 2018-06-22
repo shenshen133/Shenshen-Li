@@ -14,8 +14,9 @@ blahblahblah
 
 ## Work Experiences
 **Programmer Analyst**
-> *CFIA*
-> blahblahblah
+*CFIA*
+
+blahblahblah
 
 ## Other related Experiences
 Volunteer experiences
